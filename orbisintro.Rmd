@@ -8,7 +8,7 @@ output: html_document
 # Orbis Protocol
 ## A Blockchain Platform for Cultural Pluralism and Decentralized Development
 
-#### Abstract
+### Abstract
 The Orbis Protocol (oProtocol) is a fully open source Social Impact DAO (Decentralized Autonomous Organization) that allows for regenerative cultural development and sustainability. oProtocol offers a blockchain architecture and solution design for socio-economic autonomy, sustainability of authentic cultural expressions and indigenous ownership of the traditional knowledge systems. At the heart of this project lies the recognition and honor of the fundamental desire of everyone to create a world that they want to live in. The Orbis platform functions with Proof of Autonomy (PoA) as a consensus mechanism, which allows for members to self-author their own trajectory of social development.
 
 ### Introduction
