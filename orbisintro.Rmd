@@ -1,0 +1,16 @@
+---
+title: "orbis protocol intro"
+author: "Sushant Shrestha"
+date: "February 14, 2018"
+output: html_document
+---
+
+# Orbis Protocol
+## A Blockchain Platform for Cultural Pluralism and Decentralized Development
+
+#### Abstract
+The Orbis Protocol (oProtocol) is a fully open source Social Impact DAO (Decentralized Autonomous Organization) that allows for regenerative cultural development and sustainability. oProtocol offers a blockchain architecture and solution design for socio-economic autonomy, sustainability of authentic cultural expressions and indigenous ownership of the traditional knowledge systems. At the heart of this project lies the recognition and honor of the fundamental desire of everyone to create a world that they want to live in. The Orbis platform functions with Proof of Autonomy (PoA) as a consensus mechanism, which allows for members to self-author their own trajectory of social development.
+
+### Introduction
+Blockchain is a new technology paradigm that is disrupting every major industry, government and social structure. Acclaimed as the new “decentralized internet,” we are seeing the birth of a novel way of reorganizing our society and reinvent our social norms in an unprecedented way. With each landmark technological advance in human history, the world has fundamentally changed and has moved towards an interdependent global village. However, all previous progress invariably fell into the jurisdiction of centralized entities like powerful governments, multinational organizations or the affluent class. For the first time, we have a promise of a truly decentralized technology where each citizen of this planet, regardless of their background, can be empowered to have a voice, to shape their political landscape, and thrive in a culture that is simultaneously unique and globally integrated. Implementing blockchain is not just about shifting how few industries operate but also scaling our collective potential to build a world that is equitable, diverse, sustainable and collaborative.
+
